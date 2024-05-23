@@ -52,10 +52,6 @@ features                                  :
     description                           : Build your personalized vocabulary list as you learn, and review it anytime to ensure long-term retention.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
